@@ -534,7 +534,7 @@ public class Bienvenida extends javax.swing.JFrame {
     }//GEN-LAST:event_JRBmuhammadActionPerformed
 
     private void JRBkartoatmodjoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_JRBkartoatmodjoActionPerformed
-         KartoatmodjoFront kartoFront = new KartoatmodjoFront();
+         /*KartoatmodjoFront kartoFront = new KartoatmodjoFront();
                 leerDatos();
                 constructorKa=new Kartoatmodjo(Py,Ty,RGP,rg,API,Psep,Tsep,Na);
                 kartoFront.Py=constructorKa.getPy();
@@ -548,7 +548,7 @@ public class Bienvenida extends javax.swing.JFrame {
                 
                 
                 kartoFront.setVisible(true);
-                kartoFront.cargar();
+                kartoFront.cargar();*/
         // TODO add your handling code here:
     }//GEN-LAST:event_JRBkartoatmodjoActionPerformed
 
